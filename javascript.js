@@ -1,1 +1,1 @@
-alert("something")
+alert("I told you not to click me")
